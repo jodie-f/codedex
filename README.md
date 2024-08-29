@@ -1,2 +1,2 @@
 # codedex
-<a href="https://www.codedex.io/@jodiefan">Codedex</a> courses
+<a href="https://www.codedex.io/@jodiefan" target="_blank">Codedex</a> courses
